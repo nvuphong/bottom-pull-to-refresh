@@ -129,7 +129,10 @@ CGFloat const kAnimationDuration = 0.2f;
     
     [pullToRefreshView_ setHidden:!visible];
 }
-
+- (NSString *)addByPhong
+{
+    return @"Phong";
+}
 #pragma mark -
 #pragma mark Table view scroll management
 
