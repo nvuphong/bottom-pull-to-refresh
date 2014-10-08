@@ -84,6 +84,7 @@
  */
 - (void)relocatePullToRefreshView;
 
+- (NSString *)addByPhong;
 /**
  * Sets the pull-to-refresh view visible or not. Visible by default.
  *
